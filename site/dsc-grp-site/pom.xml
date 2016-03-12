@@ -6,7 +6,7 @@
   <artifactId>dsc-grp-site</artifactId>
   <version>2.55-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>GROUP RISK:// > Parent Site</name>
+  <name>GROUP RISK: > Parent Site</name>
   <modules>
     <module>../dsc-grp-lib-commons</module>
     <module>../dsc-grp-lib-jee</module>
