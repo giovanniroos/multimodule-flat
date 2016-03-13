@@ -10,11 +10,6 @@
   <groupId>za.dsc.grp.lib</groupId>
   <artifactId>dsc-grp-lib-commons</artifactId>
   <name>GROUP RISK:// Commons Java Library</name>
-  <scm>
-    <connection>scm:svn:http://dlpbuild01.discsrv.co.za:18080/svn/GroupRisk/web/common/branches/releases/RELEASE_BRANCH_2.55/grouprisk-site/dsc-grp-lib-commons</connection>
-    <developerConnection>scm:svn:http://dlpbuild01.discsrv.co.za:18080/svn/GroupRisk/web/common/branches/releases/RELEASE_BRANCH_2.55/grouprisk-site/dsc-grp-lib-commons</developerConnection>
-    <url>http://dlpbuild01.discsrv.co.za:18080/svn/GroupRisk/web/common/branches/releases/RELEASE_BRANCH_2.55/grouprisk-site/dsc-grp-lib-commons</url>
-  </scm>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

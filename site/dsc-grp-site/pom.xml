@@ -10,11 +10,6 @@
     <module>../dsc-grp-lib-commons</module>
     <module>../dsc-grp-lib-jee</module>
   </modules>
-  <scm>
-    <connection>scm:svn:http://dlpbuild01.discsrv.co.za:18080/svn/GroupRisk/web/common/branches/releases/RELEASE_BRANCH_2.55/grouprisk-site/dsc-grp-site</connection>
-    <developerConnection>scm:svn:http://dlpbuild01.discsrv.co.za:18080/svn/GroupRisk/web/common/branches/releases/RELEASE_BRANCH_2.55/grouprisk-site/dsc-grp-site</developerConnection>
-    <url>http://dlpbuild01.discsrv.co.za:18080/svn/GroupRisk/web/common/branches/releases/RELEASE_BRANCH_2.55/grouprisk-site/dsc-grp-site</url>
-  </scm>
   <distributionManagement>
     <repository>
       <id>nexus</id>
