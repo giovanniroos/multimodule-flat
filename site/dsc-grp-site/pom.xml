@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>za.dsc.grp.site</groupId>
   <artifactId>dsc-grp-site</artifactId>
-  <version>2.55</version>
+  <version>2.55-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>GROUP RISK: &gt; Parent Site</name>
+  <name>GROUP RISK: Parent Site</name>
   <modules>
     <module>../dsc-grp-lib-commons</module>
     <module>../dsc-grp-lib-jee</module>
@@ -14,12 +14,12 @@
     <repository>
       <id>nexus</id>
       <name>Group Risk Internal Releases</name>
-      <url>http://dlpbuild01:8081/nexus/content/repositories/releases</url>
+      <url>http://localhost:8081/nexus/content/repositories/releases</url>
     </repository>
     <snapshotRepository>
       <id>nexus</id>
       <name>Group Risk Internal Snapshots</name>
-      <url>http://dlpbuild01:8081/nexus/content/repositories/snapshots</url>
+      <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
   <properties>
@@ -69,7 +69,6 @@
         <artifactId>versions-maven-plugin</artifactId>
         <version>2.1</version>
       </plugin>
-	  
 	  <plugin>
 		  <groupId>external.atlassian.jgitflow</groupId>
             <artifactId>jgitflow-maven-plugin</artifactId>
