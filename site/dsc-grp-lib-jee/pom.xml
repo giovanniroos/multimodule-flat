@@ -4,7 +4,7 @@
   <parent>
     <groupId>za.dsc.grp.site</groupId>
     <artifactId>dsc-grp-site</artifactId>
-    <version>2.55-SNAPSHOT</version>
+    <version>2.55</version>
     <relativePath>../dsc-grp-site</relativePath>
   </parent>
   <groupId>za.dsc.grp.lib</groupId>
